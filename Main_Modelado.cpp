@@ -1,7 +1,7 @@
 // Laboratorio de Computacion Grafica
 //Alumno: Gabriel Ortiz Uriel
 //No. de cuenta: 315346989
-//Fecha de entrega:
+//Fecha de entrega: 29 de agosto de 2024
 
 
 #include<iostream>
